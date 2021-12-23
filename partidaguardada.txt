@@ -1,0 +1,27 @@
+4
+103
+340
+105
+400
+95
+450
+90
+500
+1
+False
+Jugador 1
+1
+False
+0
+Jugador 2
+0
+False
+0
+Jugador 3
+0
+False
+0
+Jugador 4
+0
+False
+0
